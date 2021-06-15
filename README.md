@@ -1,3 +1,5 @@
+Forked 20210615
+
 **Update - 20180601**: Any future development will happen on this new fork. Hoping add stability as well as new SOCs. If you are interesrted in joining the [txn2](https://txn2.com) team please email human@txn2.com.
 
 **Update**: Tested and functioning on well on the [Raspberry Pi 3 B+](https://amzn.to/2jfXhCA) and [Raspberry Pi 3 B](https://amzn.to/2Kq9Doa). Looking to support additional SOCs in upcoming versions. (Disclosure: the Pi links to Amazon are affiliate links, why not?)
